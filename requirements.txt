@@ -1,5 +1,5 @@
 pytest==3.7.1
-pyspark==2.4.4
+pyspark==3.2.2
 pytest-cov==2.5.1
 setuptools==28.8.0
 
